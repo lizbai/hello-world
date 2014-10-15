@@ -5,6 +5,7 @@ public class Newclass {
 	{
 		System.out.println("Hello World!");
 		System.out.println("Say Goodbye");
+		System.out.println("Come Back Soon");
 	}
 
 }
